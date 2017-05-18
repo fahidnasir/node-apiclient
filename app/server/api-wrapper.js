@@ -21,6 +21,5 @@ function base64_decode(str) {
 }
 
 exports.ping = function(){
-	console.log('API Wrapper is pinged');1
-	
+	console.log('API Wrapper is pinged');
 }
